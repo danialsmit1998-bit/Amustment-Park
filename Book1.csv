@@ -1,0 +1,459 @@
+park_name,category,country,price,per_week_visitors2,per_month_visitors,per_year_visitors,visitor_reviews,revisit_rate_per_year,total_revenue_per_year(millions)
+Imagicaa Theme Park,theme park,India,550,650,2600,31200,excellent,58.5,17.16
+Imagicaa Water Park,water park,India,630,520,2080,24960,very good,52.3,15.73
+Wonderla Bengaluru,amusement park,India,670,600,2400,28800,excellent,60.2,19.30
+Wonderla Kochi,amusement park,India,770,480,1920,23040,very good,55.1,17.74
+Wonderla Hyderabad,amusement park,India,1330,500,2000,24000,very good,54.8,31.92
+EsselWorld,amusement park,India,990,420,1680,20160,good,48.6,19.96
+Water Kingdom,water park,India,2170,450,1800,21600,good,46.2,46.87
+Ramoji Film City,theme park,India,840,700,2800,33600,excellent,62.4,28.23
+Adlabs Aquamagica,water park,India,1920,380,1520,18240,good,44.9,35.02
+Nicco Park,amusement park,India,780,300,1200,14400,average,38.7,11.23
+Adventure Island Delhi,amusement park,India,480,320,1280,15360,good,42.5,7.37
+Appu Ghar Gurgaon,amusement park,India,540,280,1120,13440,average,36.8,7.26
+Snow World Mumbai,indoor park,India,850,260,1040,12480,good,41.2,10.61
+Snow World Hyderabad,indoor park,India,520,240,960,11520,good,40.6,5.99
+Queensland Amusement Park,amusement park,India,570,220,880,10560,average,34.5,6.02
+VGP Universal Kingdom,amusement park,India,800,340,1360,16320,good,45.3,13.06
+Kishkinta Theme Park,theme park,India,1860,360,1440,17280,good,47.1,32.14
+Black Thunder,water park,India,2360,400,1600,19200,very good,49.8,45.31
+Wonderla Bhubaneswar,amusement park,India,720,300,1200,14400,good,43.2,10.37
+Ocean Park Hyderabad,water park,India,2460,260,1040,12480,average,35.9,30.70
+Universal Studios Florida,theme park,United States,1690,1200,4800,57600,excellent,63.4,97.35
+Universal Studios Hollywood,theme park,United States,520,1050,4200,50400,excellent,61.8,26.21
+Disneyland Park,theme park,United States,1320,1300,5200,62400,excellent,65,82.37
+Walt Disney World Magic Kingdom,theme park,United States,690,1500,6000,72000,excellent,64.2,49.69
+Disney California Adventure Park,theme park,United States,910,1100,4400,52800,excellent,60.5,48.05
+Six Flags Magic Mountain,amusement park,United States,610,900,3600,43200,very good,55.6,26.36
+Six Flags Great Adventure,amusement park,United States,470,880,3520,42240,very good,54.3,19.86
+Cedar Point,amusement park,United States,530,950,3800,45600,excellent,57.4,24.17
+Hersheypark,amusement park,United States,1310,700,2800,33600,very good,52.1,44.02
+SeaWorld Orlando,theme park,United States,480,850,3400,40800,very good,53.9,19.59
+Legoland California,theme park,United States,1800,650,2600,31200,good,48.8,56.16
+Busch Gardens Tampa Bay,amusement park,United States,740,780,3120,37440,very good,51.7,27.71
+Europa Park,theme park,Germany,980,900,3600,43200,excellent,59.8,42.34
+Dreamworld,theme park,Australia,450,750,3000,36000,very good,54.2,16.20
+Warner Bros Movie World,theme park,Australia,2200,800,3200,38400,excellent,57.8,84.48
+Sea World Gold Coast,theme park,Australia,2140,720,2880,34560,very good,53.4,73.96
+Wet'n'Wild Gold Coast,water park,Australia,1170,650,2600,31200,very good,52.1,36.51
+Luna Park Sydney,amusement park,Australia,1500,400,1600,19200,good,46.3,28.80
+Luna Park Melbourne,amusement park,Australia,910,380,1520,18240,good,45.1,16.60
+Rainbow's End,theme park,New Zealand,970,350,1400,16800,good,44.2,16.30
+Everland Caribbean Bay,water park,South Korea,2560,700,2800,33600,very good,54.6,86.02
+Lotte Water Park,water park,South Korea,640,600,2400,28800,good,49.3,18.43
+Gyeongju World,amusement park,South Korea,760,420,1680,20160,good,47.2,15.32
+Happy Valley Beijing,theme park,China,1250,950,3800,45600,very good,55.8,57.00
+Chimelong Water Park,water park,China,2480,1100,4400,52800,excellent,59.7,130.95
+Happy Valley Shanghai,theme park,China,2540,980,3920,47040,very good,56.4,119.49
+Sunac Land Guangzhou,theme park,China,2600,850,3400,40800,very good,53.7,106.08
+Window of the World Changsha,theme park,China,710,480,1920,23040,average,41.6,16.36
+Lotte World Adventure Busan,theme park,South Korea,830,900,3600,43200,excellent,58.9,35.86
+Everland Ho-Am Art Museum Park,eco park,South Korea,430,300,1200,14400,good,43.1,6.19
+Happy Valley Shenzhen,theme park,China,2230,900,3600,43200,very good,54.9,96.34
+OCT East,theme park,China,890,700,2800,33600,good,48.8,29.91
+Universal Beijing Resort,theme park,China,400,1800,7200,86400,excellent,64.5,34.57
+Ocean Dome Seagaia,water park,Japan,2270,550,2200,26400,good,47.5,59.93
+Huis Ten Bosch,theme park,Japan,800,600,2400,28800,good,48.6,23.04
+Yomiuriland,amusement park,Japan,480,520,2080,24960,good,46.9,11.98
+Tokyo Dome City Attractions,amusement park,Japan,590,580,2320,27840,good,45.8,16.43
+Nagoya Legoland Japan,theme park,Japan,520,650,2600,31200,very good,52.4,16.23
+Universal Studios Japan,theme park,Japan,1840,1600,6400,76800,excellent,63.8,141.32
+Everland Lost Valley,eco park,South Korea,730,350,1400,16800,good,44.6,12.27
+Sentosa Island Universal Studios Singapore Extension,theme park,Singapore,910,1150,4600,55200,excellent,62.3,50.24
+Waterbom Bali,water park,Indonesia,560,480,1920,23040,very good,53.1,12.90
+Trans Studio Bandung,indoor park,Indonesia,2380,600,2400,28800,very good,51.8,68.55
+Trans Studio Makassar,indoor park,Indonesia,1120,550,2200,26400,good,49.7,29.57
+Dufan Ancol,amusement park,Indonesia,530,650,2600,31200,good,48.4,16.54
+VinWonders Phu Quoc,theme park,Vietnam,430,700,2800,33600,very good,52.9,14.45
+VinWonders Nha Trang,theme park,Vietnam,1090,650,2600,31200,very good,51.6,34.01
+Sun World Ba Na Hills,theme park,Vietnam,800,800,3200,38400,very good,54.1,30.72
+Sun World Halong Complex,theme park,Vietnam,730,600,2400,28800,good,48.3,21.03
+Dream World Bangkok,theme park,Thailand,580,550,2200,26400,good,46.2,15.31
+Siam Amazing Park,amusement park,Thailand,430,520,2080,24960,good,45.8,10.74
+Ramayana Water Park,water park,Thailand,960,480,1920,23040,very good,52.7,22.12
+Vana Nava Hua Hin,water park,Thailand,1860,450,1800,21600,good,49.1,40.18
+Fantawild Adventure Wuhu,theme park,China,1700,900,3600,43200,very good,55.2,73.44
+Fantawild Dreamland Xiamen,theme park,China,460,850,3400,40800,very good,54.6,18.77
+Fantawild Oriental Heritage Ningbo,theme park,China,1610,800,3200,38400,good,51.9,61.83
+Ocean Park Zhuhai,theme park,China,860,700,2800,33600,good,49.8,28.90
+Universal Studios Beijing WaterWorld,water park,China,840,1200,4800,57600,excellent,60.4,48.39
+Sunac Snow Park Guangzhou,indoor park,China,600,650,2600,31200,good,48.7,18.72
+Snow Town Harbin Ice World,indoor park,China,530,600,2400,28800,good,47.9,15.27
+Lotte Adventure World Busan Indoor Park,indoor park,South Korea,840,700,2800,33600,very good,53.6,28.23
+Everland Zootopia,eco park,South Korea,480,280,1120,13440,average,38.2,6.45
+Adventure World Shirahama,eco park,Japan,680,350,1400,16800,good,44.1,11.43
+Nagashima Resort Water Park,water park,Japan,510,750,3000,36000,very good,54.8,18.36
+Universal Studios Singapore Minion Land,theme park,Singapore,500,1180,4720,56640,excellent,63.1,28.33
+Everland Speedway Park,adventure park,South Korea,840,420,1680,20160,good,46.9,16.94
+Genting SkyWorlds,theme park,Malaysia,1830,750,3000,36000,very good,53.2,65.88
+Genting Highlands Theme Park,theme park,Malaysia,460,700,2800,33600,good,49.6,15.46
+Lost World of Tambun,water park,Malaysia,500,600,2400,28800,good,48.1,14.40
+Legoland Malaysia,theme park,Malaysia,620,650,2600,31200,very good,52.3,19.35
+ESCAPE Penang,adventure park,Malaysia,630,420,1680,20160,good,46.4,12.70
+Universal Studios Osaka Extension,theme park,Japan,800,1550,6200,74400,excellent,63.5,59.53
+Yokohama Cosmoworld,amusement park,Japan,1000,500,2000,24000,average,42.6,24.00
+Fuji Safari Park,eco park,Japan,850,480,1920,23040,good,45.9,19.59
+Tobu Zoo,eco park,Japan,780,420,1680,20160,good,44.8,15.73
+Hamanako Palpal,amusement park,Japan,410,380,1520,18240,average,41.2,7.48
+Phantasialand,theme park,Germany,570,750,3000,36000,very good,54.6,20.52
+Heide Park,amusement park,Germany,1000,500,2000,24000,good,47.2,24.00
+PortAventura Park,theme park,Spain,920,820,3280,39360,very good,56.3,36.21
+Tivoli Gardens,theme park,Denmark,460,600,2400,28800,excellent,58.9,13.25
+Alton Towers,theme park,United Kingdom,800,780,3120,37440,very good,55.8,29.96
+Thorpe Park,amusement park,United Kingdom,2120,650,2600,31200,very good,53.1,66.15
+Chessington World of Adventures,theme park,United Kingdom,760,600,2400,28800,good,49.4,21.89
+Gardaland,theme park,Italy,1280,700,2800,33600,very good,54.9,43.01
+Efteling,theme park,Netherlands,410,730,2920,35040,excellent,57.6,14.37
+Lotte World,theme park,South Korea,530,850,3400,40800,excellent,60.7,21.63
+Everland,theme park,South Korea,1560,900,3600,43200,excellent,61.2,67.40
+Tokyo Disneyland,theme park,Japan,600,1400,5600,67200,excellent,64.8,40.33
+Tokyo DisneySea,theme park,Japan,410,1350,5400,64800,excellent,64.1,26.57
+Fuji-Q Highland,amusement park,Japan,880,650,2600,31200,very good,52.8,27.46
+Nagashima Spa Land,amusement park,Japan,560,700,2800,33600,very good,53.6,18.82
+Hong Kong Disneyland,theme park,China,730,950,3800,45600,very good,55.2,33.29
+Shanghai Disneyland,theme park,China,760,1600,6400,76800,excellent,62.9,58.37
+Chimelong Ocean Kingdom,theme park,China,500,1500,6000,72000,excellent,61.5,36.01
+Window of the World,theme park,China,1870,600,2400,28800,good,46.4,53.86
+Ocean Park Hong Kong,theme park,China,920,800,3200,38400,very good,52.7,35.33
+Ferrari World Abu Dhabi,theme park,United Arab Emirates,810,900,3600,43200,excellent,59.4,35.00
+Warner Bros World Abu Dhabi,indoor park,United Arab Emirates,2340,850,3400,40800,very good,56.8,95.48
+Yas Waterworld,water park,United Arab Emirates,2560,780,3120,37440,very good,54.3,95.85
+Motiongate Dubai,theme park,United Arab Emirates,1880,700,2800,33600,very good,53.9,63.17
+IMG Worlds of Adventure,indoor park,United Arab Emirates,1630,750,3000,36000,very good,55.1,58.68
+Legoland Dubai,theme park,United Arab Emirates,820,600,2400,28800,good,49.8,23.62
+Siam Park,water park,Spain,2580,700,2800,33600,excellent,58.2,86.69
+Aquaventure Waterpark,water park,United Arab Emirates,470,950,3800,45600,excellent,60.9,21.44
+Wild Wadi,water park,United Arab Emirates,780,820,3280,39360,very good,54.7,30.70
+Sunway Lagoon,theme park,Malaysia,840,650,2600,31200,very good,52.4,26.21
+Universal Studios Singapore,theme park,Singapore,2690,1100,4400,52800,excellent,61.9,142.04
+Adventure Cove Waterpark,water park,Singapore,580,600,2400,28800,very good,53.3,16.71
+Ocean Park Philippines,theme park,Philippines,1570,420,1680,20160,good,45.1,31.65
+Enchanted Kingdom,theme park,Philippines,1430,480,1920,23040,very good,49.6,32.95
+Beto Carrero World,theme park,Brazil,740,700,2800,33600,very good,52.8,24.87
+Hop Hari,amusement park,Brazil,430,380,1520,18240,average,39.5,7.84
+Parque Warner Madrid,theme park,Spain,450,600,2400,28800,very good,51.2,12.96
+Futuroscope,theme park,France,930,550,2200,26400,good,48.3,24.55
+Disneyland Paris,theme park,France,680,1250,5000,60000,excellent,63.7,40.81
+Asterix Park,theme park,France,900,520,2080,24960,good,47.9,22.47
+Liseberg,amusement park,Sweden,410,600,2400,28800,very good,53.4,11.81
+Gröna Lund,amusement park,Sweden,770,520,2080,24960,good,49.2,19.22
+Energylandia,amusement park,Poland,2130,500,2000,24000,good,48.7,51.12
+Prater Vienna,amusement park,Austria,980,450,1800,21600,average,37.6,21.17
+Mirabilandia,amusement park,Italy,760,600,2400,28800,very good,51.9,21.89
+Rainbow MagicLand,theme park,Italy,620,480,1920,23040,good,46.8,14.29
+Kingdom of Dreams,theme park,India,630,380,1520,18240,very good,50.2,11.49
+Snow World Ahmedabad,indoor park,India,2720,180,720,8640,average,34.1,23.50
+Snow World Chennai,indoor park,India,1550,200,800,9600,good,36.5,14.88
+Splash The Water Park Delhi,water park,India,570,240,960,11520,average,33.8,6.57
+Fun N Food Village Delhi,water park,India,2590,220,880,10560,average,32.4,27.35
+Fun N Food Village Mumbai,water park,India,710,210,840,10080,average,31.9,7.16
+Appu Ghar Jaipur,amusement park,India,1590,260,1040,12480,good,38.6,19.84
+Nicco Water Park,water park,India,1010,230,920,11040,average,34.9,11.15
+Swapna Srushti Water Park,water park,India,490,250,1000,12000,good,37.8,5.88
+Krushnai Water Park,water park,India,2720,200,800,9600,average,33.1,26.11
+Wet N Joy Lonavala,water park,India,570,420,1680,20160,very good,49.7,11.49
+Wet N Joy Shirdi,water park,India,940,380,1520,18240,very good,48.9,17.15
+Diamond Water Park Pune,water park,India,840,260,1040,12480,good,39.4,10.48
+Sentosa Water Park Pune,water park,India,780,280,1120,13440,good,40.6,10.48
+Tikuji-ni-Wadi,amusement park,India,970,300,1200,14400,good,41.8,13.97
+Suraj Water Park,water park,India,2290,270,1080,12960,good,39.9,29.68
+Worlds of Wonder,amusement park,India,890,360,1440,17280,very good,47.5,15.38
+Funtasia Water Park,water park,India,830,220,880,10560,average,34.7,8.77
+Black Thunder Theme Park,theme park,India,520,410,1640,19680,very good,50.4,10.24
+Baywatch Amusement Park,amusement park,India,1390,290,1160,13920,good,41.1,19.35
+Queensland Water Park,water park,India,640,270,1080,12960,good,39.6,8.30
+Anandi Water Park,water park,India,740,230,920,11040,average,33.2,8.17
+Dream World Water Park,water park,India,430,210,840,10080,average,32.1,4.34
+GRS Fantasy Park,amusement park,India,910,260,1040,12480,good,38.9,11.36
+GRS Snow Park,indoor park,India,400,200,800,9600,average,31.8,3.84
+Innovative Film City,theme park,India,1830,400,1600,19200,very good,48.2,35.14
+Splashdown Water Park,water park,India,2280,250,1000,12000,good,37.5,27.36
+Wonder Valley Adventure Park,adventure park,India,1900,280,1120,13440,good,40.1,25.54
+Della Adventure Park,adventure park,India,750,450,1800,21600,excellent,59.8,16.20
+Mount Opera Theme Park,theme park,India,640,260,1040,12480,average,35.6,7.99
+Ocean Park Gandipet,water park,India,840,280,1120,13440,good,39.8,11.29
+Snow Kingdom Bengaluru,indoor park,India,2650,220,880,10560,good,36.9,27.98
+Snow Kingdom Chennai,indoor park,India,880,210,840,10080,average,34.4,8.87
+Queensland Snow Park,indoor park,India,760,200,800,9600,average,33,7.30
+Fantasy Kingdom Kolkata,theme park,India,2070,300,1200,14400,good,42.1,29.81
+Aquatica Kolkata,water park,India,970,340,1360,16320,very good,46.8,15.83
+Aqua Imagicaa,water park,India,650,480,1920,23040,very good,52.7,14.98
+Snow World Kolkata,indoor park,India,2460,220,880,10560,average,34.6,25.98
+Snow World Noida,indoor park,India,750,230,920,11040,good,36.1,8.28
+Ocean Park Chennai,water park,India,560,260,1040,12480,average,35.2,6.99
+Queensland Adventure Park,adventure park,India,590,320,1280,15360,good,44.3,9.06
+Fun City Chandigarh,indoor park,India,2070,180,720,8640,average,31.4,17.89
+Splash Water Park Chandigarh,water park,India,1980,240,960,11520,average,34.2,22.81
+Fun N Food Village Chandigarh,water park,India,620,230,920,11040,average,33.6,6.85
+Snow World Chandigarh,indoor park,India,590,190,760,9120,average,32.8,5.38
+Aqua Village Amusement Park,water park,India,870,220,880,10560,average,33.1,9.19
+Fantasy Island Mumbai,amusement park,India,1660,300,1200,14400,good,41.9,23.91
+EsselWorld Water Kingdom Park,water park,India,600,420,1680,20160,good,45.7,12.10
+Snow Park Hyderabad,indoor park,India,480,210,840,10080,average,34.3,4.84
+Fun World Bengaluru,amusement park,India,850,280,1120,13440,good,40.2,11.43
+Queensland Amusement Park Kochi,amusement park,India,810,260,1040,12480,average,36.4,10.11
+Snow World Kochi,indoor park,India,1540,190,760,9120,average,32.2,14.05
+Magic Planet Thiruvananthapuram,theme park,India,1690,240,960,11520,good,37.9,19.47
+Happy Valley Amusement Park,amusement park,India,510,250,1000,12000,average,35.8,6.12
+Silver Storm Water Theme Park,water park,India,780,360,1440,17280,very good,47.6,13.48
+Vismaya Water Park,water park,India,440,260,1040,12480,good,38.4,5.49
+Dream World Thrissur,amusement park,India,1780,220,880,10560,average,33.9,18.80
+Fantasy Park Odisha,amusement park,India,1520,210,840,10080,average,33.1,15.32
+Wonderla Chennai,amusement park,India,2090,420,1680,20160,very good,51.4,42.14
+Wonderla Bhubaneswar Water Park,water park,India,1000,300,1200,14400,good,43.7,14.40
+Snow World Pune,indoor park,India,500,230,920,11040,good,36.5,5.52
+Splash Water Park Jaipur,water park,India,780,240,960,11520,average,34.1,8.99
+Fun Kingdom Jaipur,amusement park,India,690,250,1000,12000,average,35.6,8.28
+Rajasthan Adventure Park,adventure park,India,940,280,1120,13440,good,40.8,12.63
+Snow Park Jaipur,indoor park,India,580,190,760,9120,average,32.6,5.29
+Wonder Valley Lonavala,adventure park,India,750,320,1280,15360,very good,45.9,11.52
+Snow Park Indore,indoor park,India,680,180,720,8640,average,31.5,5.88
+Fun City Indore,indoor park,India,490,170,680,8160,average,30.9,4.00
+Ocean Park Vijayawada,water park,India,660,240,960,11520,average,34.2,7.60
+Queensland Water Park Hyderabad,water park,India,2370,280,1120,13440,good,40.5,31.85
+Snow Park Vijayawada,indoor park,India,560,180,720,8640,average,31.7,4.84
+Knott's Berry Farm,amusement park,United States,880,780,3120,37440,very good,54.1,32.95
+Universal Volcano Bay,water park,United States,480,850,3400,40800,excellent,58.6,19.59
+Disney's Typhoon Lagoon,water park,United States,710,800,3200,38400,very good,55.2,27.27
+Disney's Blizzard Beach,water park,United States,460,750,3000,36000,very good,53.9,16.56
+Busch Gardens Williamsburg,amusement park,United States,2470,720,2880,34560,very good,52.8,85.37
+Silver Dollar City,amusement park,United States,740,600,2400,28800,good,49.3,21.31
+Dollywood,amusement park,United States,470,680,2720,32640,very good,51.4,15.34
+California's Great America,amusement park,United States,590,620,2480,29760,good,48.6,17.56
+Kings Island,amusement park,United States,1660,650,2600,31200,very good,50.1,51.79
+Carowinds,amusement park,United States,1100,600,2400,28800,good,48.2,31.68
+Canada's Wonderland,amusement park,Canada,650,720,2880,34560,very good,52.4,22.47
+La Ronde,amusement park,Canada,500,480,1920,23040,good,46.3,11.52
+Calaway Park,amusement park,Canada,880,420,1680,20160,average,41.9,17.74
+Parc Asterix Water Area,water park,France,750,450,1800,21600,good,47.1,16.20
+Fasouri Watermania,water park,Cyprus,900,350,1400,16800,good,44.5,15.12
+Siam Park City Water World,water park,Thailand,2680,500,2000,24000,good,46.8,64.32
+Aquapark Istralandia,water park,Croatia,540,380,1520,18240,good,45.3,9.85
+Aqualand Moravia,water park,Czech Republic,1310,360,1440,17280,good,44.1,22.64
+Therme Erding Galaxy,water park,Germany,450,600,2400,28800,very good,52.6,12.96
+Aqualandia Benidorm,water park,Spain,1520,550,2200,26400,very good,51.9,40.13
+Parque Aquatico Amarante,water park,Portugal,590,300,1200,14400,average,39.2,8.50
+Zoomarine Albufeira,theme park,Portugal,470,480,1920,23040,good,47.8,10.83
+Aqua Fantasy Kusadasi,water park,Turkey,520,420,1680,20160,good,46.4,10.49
+Vialand Istanbul,theme park,Turkey,430,700,2800,33600,very good,53.7,14.45
+Land of Legends Theme Park,theme park,Turkey,790,850,3400,40800,excellent,58.2,32.24
+Ferrari Land,theme park,Spain,570,600,2400,28800,good,49.5,16.42
+Parc Spirou Provence,theme park,France,680,420,1680,20160,good,46.1,13.71
+Nigloland,theme park,France,500,400,1600,19200,good,45.2,9.60
+Walibi Belgium,amusement park,Belgium,2260,480,1920,23040,good,47.3,52.07
+Walibi Holland,amusement park,Netherlands,910,500,2000,24000,good,48.6,21.84
+Plopsaland De Panne,theme park,Belgium,470,520,2080,24960,very good,50.2,11.73
+Toverland,theme park,Netherlands,860,550,2200,26400,very good,51.4,22.71
+Movie Park Germany,theme park,Germany,570,580,2320,27840,very good,52.1,15.87
+Hansa-Park,amusement park,Germany,780,520,2080,24960,good,48.9,19.47
+Belantis,theme park,Germany,1280,480,1920,23040,good,47.6,29.49
+Energylandia Water Park,water park,Poland,890,450,1800,21600,good,46.2,19.23
+Legendia Silesian Park,amusement park,Poland,1730,380,1520,18240,average,41.3,31.56
+Tibidabo Amusement Park,amusement park,Spain,880,420,1680,20160,good,45.9,17.74
+Prater Water World,water park,Austria,1430,360,1440,17280,average,40.8,24.71
+Aquashow Park Quarteira,water park,Portugal,550,400,1600,19200,good,44.7,10.56
+Sun City Valley of Waves,water park,South Africa,2520,380,1520,18240,good,45.1,45.97
+Gold Reef City,theme park,South Africa,940,420,1680,20160,good,46.8,18.95
+Happy Island Cebu,amusement park,Philippines,2190,280,1120,13440,average,37.4,29.43
+Star City Manila,amusement park,Philippines,520,320,1280,15360,good,41.8,7.99
+Ocean Adventure Subic Bay,eco park,Philippines,870,300,1200,14400,good,42.9,12.53
+Splash Island Laguna,water park,Philippines,1710,280,1120,13440,average,38.6,22.98
+Snow World Dubai,indoor park,United Arab Emirates,970,600,2400,28800,very good,52.7,27.94
+Motiongate Bollywood Parks Dubai,theme park,United Arab Emirates,670,680,2720,32640,very good,54.3,21.87
+Aquaventure Atlantis Sanya,water park,China,2580,900,3600,43200,excellent,59.1,111.46
+Haichang Ocean Park Shanghai,theme park,China,750,700,2800,33600,very good,52.4,25.20
+Haichang Ocean Park Dalian,theme park,China,970,600,2400,28800,good,49.6,27.94
+Nanshan Ecological Park,eco park,China,400,300,1200,14400,average,38.8,5.76
+Jeju Shinhwa World,theme park,South Korea,2560,620,2480,29760,very good,51.9,76.19
+Lotte Water Park Gimhae,water park,South Korea,770,550,2200,26400,good,48.7,20.33
+Everland Snow Buster,indoor park,South Korea,470,480,1920,23040,good,47.8,10.83
+Yongin Caribbean Bay Indoor Zone,indoor park,South Korea,620,520,2080,24960,good,48.9,15.48
+Adventure Island Japan,amusement park,Japan,430,450,1800,21600,good,46.4,9.29
+Shima Spain Village,theme park,Japan,790,480,1920,23040,good,47.1,18.20
+Suzuka Circuit Park,amusement park,Japan,940,420,1680,20160,good,45.8,18.95
+Asahiyama Zoo Park,eco park,Japan,940,350,1400,16800,average,39.6,15.79
+Universal Studios Hollywood WaterWorld,water park,United States,400,820,3280,39360,excellent,56.9,15.75
+Linnanmäki,amusement park,Finland,2070,420,1680,20160,very good,52.4,41.73
+Särkänniemi,amusement park,Finland,1570,380,1520,18240,good,48.9,28.64
+PowerPark,amusement park,Finland,690,360,1440,17280,good,47.3,11.92
+Tusenfryd,amusement park,Norway,640,420,1680,20160,good,49.2,12.90
+Bakken,amusement park,Denmark,900,500,2000,24000,very good,53.8,21.60
+BonBon-Land,amusement park,Denmark,690,320,1280,15360,average,41.6,10.60
+Djurs Sommerland,amusement park,Denmark,860,550,2200,26400,very good,52.1,22.71
+Kolmården Wildlife Park,eco park,Sweden,1370,600,2400,28800,very good,54.3,39.46
+Skara Sommarland,water park,Sweden,1910,380,1520,18240,good,47.8,34.84
+Boudewijn Seapark,theme park,Belgium,610,350,1400,16800,average,42.1,10.25
+Parque de Atracciones Madrid,amusement park,Spain,750,500,2000,24000,good,48.6,18.00
+Isla Magica,theme park,Spain,580,420,1680,20160,good,47.2,11.69
+Terra Mitica,theme park,Spain,480,460,1840,22080,good,49.1,10.60
+Sendaviva,theme park,Spain,2400,300,1200,14400,average,39.5,34.56
+Zoomarine Rome,theme park,Italy,2200,420,1680,20160,good,46.9,44.35
+Cinecitta World,theme park,Italy,510,380,1520,18240,good,45.8,9.30
+Oltremare,theme park,Italy,1090,360,1440,17280,average,43.2,18.84
+Leolandia,theme park,Italy,530,400,1600,19200,good,47.4,10.18
+Parc du Petit Prince,theme park,France,2030,300,1200,14400,average,40.2,29.23
+Walygator Grand Est,amusement park,France,680,320,1280,15360,average,41.3,10.45
+Dennlys Parc,amusement park,France,490,280,1120,13440,average,38.9,6.59
+Familypark,theme park,Austria,2500,420,1680,20160,good,48.4,50.40
+Serengeti Park,eco park,Germany,580,600,2400,28800,very good,54.1,16.71
+Fort Fun Abenteuerland,adventure park,Germany,810,380,1520,18240,good,46.3,14.78
+Bayern Park,amusement park,Germany,690,360,1440,17280,average,43.9,11.92
+Erlebnispark Tripsdrill,theme park,Germany,570,420,1680,20160,good,48.1,11.49
+Schwaben Park,amusement park,Germany,950,320,1280,15360,average,41.2,14.59
+Holiday Park Germany,amusement park,Germany,2220,480,1920,23040,very good,52.7,51.15
+Plopsaland Deutschland,theme park,Germany,830,450,1800,21600,good,49.6,17.93
+Aquapark Reda,water park,Poland,760,300,1200,14400,average,40.1,10.95
+Suntago Water World,water park,Poland,460,500,2000,24000,very good,53.4,11.04
+Tatralandia,water park,Slovakia,1490,420,1680,20160,good,48.3,30.04
+Aquacity Poprad,water park,Slovakia,550,360,1440,17280,average,44.1,9.51
+Energylandia Extreme Zone,adventure park,Poland,1550,520,2080,24960,very good,54.8,38.69
+Parque Nacional Xcaret,eco park,Mexico,700,950,3800,45600,excellent,60.2,31.92
+Xel-Ha Park,eco park,Mexico,690,900,3600,43200,excellent,59.4,29.81
+Xplor Park,adventure park,Mexico,760,850,3400,40800,excellent,58.1,31.01
+Six Flags Mexico,amusement park,Mexico,1540,700,2800,33600,very good,52.9,51.75
+Selva Magica,amusement park,Mexico,950,420,1680,20160,good,47.8,19.15
+Hopi Hari Water Zone,water park,Brazil,990,360,1440,17280,average,43.2,17.11
+Parque da Mônica,indoor park,Brazil,440,350,1400,16800,good,46.4,7.39
+Hot Park Rio Quente,water park,Brazil,840,600,2400,28800,very good,53.7,24.19
+Snowland Gramado,indoor park,Brazil,710,450,1800,21600,very good,52.1,15.34
+Playcenter Family,indoor park,Brazil,690,300,1200,14400,average,39.6,9.94
+Fantasilandia,amusement park,Chile,510,380,1520,18240,good,46.9,9.30
+Mundo Petapa,amusement park,Guatemala,430,260,1040,12480,average,36.8,5.37
+Parque Xenses,adventure park,Mexico,1100,650,2600,31200,excellent,58.6,34.32
+KidZania Tokyo,indoor park,Japan,970,420,1680,20160,good,47.9,19.56
+KidZania London,indoor park,United Kingdom,850,450,1800,21600,good,48.8,18.36
+KidZania Dubai,indoor park,United Arab Emirates,630,480,1920,23040,very good,51.7,14.52
+KidZania Mumbai,indoor park,India,1750,420,1680,20160,very good,52.4,35.28
+KidZania Delhi NCR,indoor park,India,1260,450,1800,21600,very good,53.1,27.22
+Snow World Delhi,indoor park,India,840,260,1040,12480,good,36.9,10.48
+Snow City Bengaluru,indoor park,India,2360,240,960,11520,average,34.8,27.19
+Snow Fantasy Ahmedabad,indoor park,India,510,220,880,10560,average,33.7,5.39
+Fun City Mumbai,indoor park,India,710,200,800,9600,average,32.4,6.82
+Timezone India,indoor park,India,920,190,760,9120,average,31.2,8.39
+Adventure Park Pushkar,adventure park,India,810,260,1040,12480,good,39.6,10.11
+Rishikesh Adventure Park,adventure park,India,1550,280,1120,13440,good,41.8,20.83
+Bir Billing Adventure Zone,adventure park,India,2780,300,1200,14400,very good,44.9,40.03
+Eco Park Kolkata,eco park,India,810,350,1400,16800,good,42.6,13.61
+Van Rani Eco Park,eco park,India,2640,280,1120,13440,average,38.1,35.48
+Chitwan Jungle Safari Park,eco park,Nepal,890,180,720,8640,good,41.2,7.69
+Kathmandu Fun Park,amusement park,Nepal,860,160,640,7680,average,35.4,6.61
+Snow World Bangkok,indoor park,Thailand,810,240,960,11520,good,39.6,9.33
+Safari World Bangkok,theme park,Thailand,2680,550,2200,26400,very good,52.3,70.75
+Dream Forest Langkawi,eco park,Malaysia,820,260,1040,12480,good,42.8,10.23
+Lost World Hot Springs Night Park,eco park,Malaysia,880,320,1280,15360,very good,49.1,13.52
+Waterbom Jakarta,water park,Indonesia,580,380,1520,18240,good,46.7,10.58
+Taman Safari Bogor,eco park,Indonesia,780,600,2400,28800,very good,54.4,22.47
+Taman Mini Indonesia Indah,theme park,Indonesia,2760,500,2000,24000,good,48.9,66.24
+Dusun Bambu Leisure Park,eco park,Indonesia,2560,280,1120,13440,good,44.3,34.41
+Sun World Fansipan Legend,adventure park,Vietnam,980,420,1680,20160,good,46.8,19.76
+Vinpearl Safari Phu Quoc,eco park,Vietnam,1650,380,1520,18240,good,45.1,30.10
+Ba Na Hills Fantasy Park,indoor park,Vietnam,810,600,2400,28800,very good,52.6,23.33
+Saigon Zoo and Botanical Gardens,eco park,Vietnam,470,450,1800,21600,average,38.4,10.15
+Dream World Cairo,amusement park,Egypt,950,320,1280,15360,good,42.7,14.59
+Africano Park Alexandria,eco park,Egypt,770,260,1040,12480,average,37.1,9.61
+Al Montazah Water Park,water park,Egypt,910,300,1200,14400,good,40.8,13.11
+Sun City Amusement Park,amusement park,Egypt,450,340,1360,16320,good,44.9,7.35
+Aquapark Egnatia,water park,Greece,710,360,1440,17280,good,45.3,12.27
+Allou Fun Park,amusement park,Greece,560,300,1200,14400,average,39.8,8.07
+WaterWorld Ayia Napa,water park,Cyprus,640,380,1520,18240,very good,50.1,11.68
+Magic Aqua Rock Gardens,water park,Spain,2500,360,1440,17280,good,46.2,43.20
+Aqualava Water Park,water park,Spain,590,340,1360,16320,good,45.4,9.63
+Selwo Aventura,eco park,Spain,510,300,1200,14400,average,40.3,7.35
+Zoomarine Lisboa,theme park,Portugal,1990,420,1680,20160,good,46.9,40.12
+Badoca Safari Park,eco park,Portugal,1930,260,1040,12480,average,38.7,24.09
+Parque Warner Beach,water park,Spain,2650,520,2080,24960,very good,53.6,66.15
+Aqua Natura Benidorm,water park,Spain,470,300,1200,14400,average,40.1,6.77
+Drievliet Family Park,amusement park,Netherlands,1670,320,1280,15360,average,41.8,25.65
+Duinrell Tikibad,water park,Netherlands,450,420,1680,20160,very good,52.1,9.07
+Slagharen Theme Park,theme park,Netherlands,990,460,1840,22080,good,48.9,21.86
+Walibi Rhône-Alpes,amusement park,France,1470,400,1600,19200,good,47.2,28.23
+Vulcania,theme park,France,680,360,1440,17280,good,45.6,11.75
+Parc Saint Paul,amusement park,France,510,300,1200,14400,average,40.4,7.35
+AquaMagis Plettenberg,water park,Germany,540,380,1520,18240,good,46.9,9.85
+Bergpark Wilhelmshöhe,eco park,Germany,620,280,1120,13440,average,38.2,8.33
+Serengeti-Park Hodenhagen Safari,eco park,Germany,420,520,2080,24960,very good,54.8,10.49
+Familyland Pomerode,amusement park,Brazil,2240,280,1120,13440,average,39.2,30.11
+Parque Terra Mágica Florybal,theme park,Brazil,2100,300,1200,14400,good,42.6,30.24
+Cidade da Criança,amusement park,Brazil,1000,260,1040,12480,average,38.1,12.48
+Wet'n Wild São Paulo,water park,Brazil,620,480,1920,23040,very good,52.7,14.29
+Beto Carrero Water World,water park,Brazil,2550,440,1760,21120,good,47.9,53.86
+Parque Mundo Aventura,amusement park,Colombia,1000,280,1120,13440,average,38.6,13.44
+Salitre Mágico,amusement park,Colombia,530,300,1200,14400,good,41.2,7.63
+Hacienda Nápoles Theme Park,theme park,Colombia,2440,340,1360,16320,good,44.5,39.82
+Xoximilco Cancún,eco park,Mexico,560,650,2600,31200,excellent,58.4,17.47
+La Feria de Chapultepec,amusement park,Mexico,680,360,1440,17280,average,41.9,11.75
+Bioparc Valencia,eco park,Spain,1520,400,1600,19200,very good,51.6,29.19
+Faunia Madrid,eco park,Spain,1990,380,1520,18240,good,48.2,36.30
+Parque Jaime Duque,theme park,Colombia,610,280,1120,13440,average,39.4,8.20
+Snow World Genting,indoor park,Malaysia,920,450,1800,21600,very good,52.1,19.87
+Berjaya Times Square Theme Park,indoor park,Malaysia,1530,400,1600,19200,good,47.6,29.38
+Sunway Lost World of Tambun,theme park,Malaysia,520,520,2080,24960,very good,53.4,12.98
+SkyTrex Adventure Shah Alam,adventure park,Malaysia,590,260,1040,12480,good,42.9,7.36
+Yas Island Clymb Adventure,adventure park,United Arab Emirates,2060,420,1680,20160,very good,54.2,41.53
+Snow Park Muscat,indoor park,Oman,720,260,1040,12480,good,42.1,8.99
+Aqua Fun Water Park Jeddah,water park,Saudi Arabia,2640,320,1280,15360,good,45.8,40.55
+Al Shallal Theme Park,amusement park,Saudi Arabia,810,300,1200,14400,average,39.6,11.67
+Wonderland Eurasia,theme park,Turkey,870,380,1520,18240,good,46.3,15.87
+The Land of Legends Aqua Park,water park,Turkey,650,520,2080,24960,excellent,58.4,16.23
+Snow Park Riyadh,indoor park,Saudi Arabia,940,280,1120,13440,good,44.7,12.63
+Aqua City Odaiba,water park,Japan,480,360,1440,17280,good,47.9,8.30
+Nasu Highland Park,amusement park,Japan,870,340,1360,16320,good,46.8,14.20
+Sanrio Puroland,indoor park,Japan,530,420,1680,20160,very good,52.3,10.69
+Himeji Central Park,theme park,Japan,1920,300,1200,14400,average,41.2,27.65
+Greenland Amusement Park,amusement park,Japan,1020,280,1120,13440,average,39.9,13.71
+Rusutsu Resort Amusement Park,amusement park,Japan,960,500,2000,24000,very good,54.8,23.04
+Aqua Paradise Okinawa,water park,Japan,660,320,1280,15360,good,45.3,10.14
+Sega Joypolis Tokyo,indoor park,Japan,440,380,1520,18240,very good,51.6,8.03
+Ocean Kingdom Macau,theme park,China,840,420,1680,20160,good,48.9,16.94
+Zhuhai Chimelong Spaceship Park,theme park,China,750,700,2800,33600,excellent,60.4,25.20
+Sunac Water World Wuxi,water park,China,1740,360,1440,17280,good,46.8,30.07
+Happy Valley Wuhan,theme park,China,810,520,2080,24960,very good,53.9,20.22
+Happy Valley Chengdu,theme park,China,620,480,1920,23040,good,49.7,14.29
+Fantawild Adventure Hefei,theme park,China,2620,460,1840,22080,good,48.6,57.85
+Sunac Snow Park Harbin,indoor park,China,410,420,1680,20160,good,47.4,8.27
+OCT Happy Valley Tianjin,theme park,China,2790,500,2000,24000,very good,52.2,66.96
+Chimelong Safari Park Guangzhou,eco park,China,670,650,2600,31200,excellent,59.3,20.91
+Ocean Park Sanya,theme park,China,540,420,1680,20160,good,48.1,10.89
+Everland Glamping Safari,eco park,South Korea,2370,360,1440,17280,good,46.9,40.96
+Lotte World Folk Museum,indoor park,South Korea,420,280,1120,13440,average,39.8,5.65
+Gwanggyo Aqua Planet,water park,South Korea,890,320,1280,15360,good,45.6,13.67
+Seoul Land Snow Park,indoor park,South Korea,2290,340,1360,16320,good,46.7,37.37
+E-World Daegu,amusement park,South Korea,590,360,1440,17280,good,47.8,10.20
+Caribbean Bay Wave Pool,water park,South Korea,790,420,1680,20160,very good,52.4,15.93
+VinWonders Nam Hoi An,theme park,Vietnam,580,460,1840,22080,very good,52.1,12.81
+Sun World Hon Thom Nature Park,eco park,Vietnam,1070,380,1520,18240,good,47.3,19.52
+Dam Sen Cultural Park,theme park,Vietnam,820,420,1680,20160,average,41.9,16.53
+Suoi Tien Theme Park,theme park,Vietnam,820,400,1600,19200,average,40.6,15.75
+Asia Park Da Nang,amusement park,Vietnam,800,360,1440,17280,good,45.8,13.83
+Dream World Phuket,theme park,Thailand,780,340,1360,16320,good,46.1,12.73
+Columbia Pictures Aquaverse,water park,Thailand,620,420,1680,20160,very good,53.6,12.50
+Santorini Park Cha-Am,theme park,Thailand,740,260,1040,12480,average,38.2,9.24
+Vana Nava Jungle Water Park,water park,Thailand,540,360,1440,17280,good,48.4,9.33
+Pattaya Park Amusement Center,amusement park,Thailand,2780,300,1200,14400,average,39.5,40.03
+Genting SkyWorlds Outdoor Park,theme park,Malaysia,930,520,2080,24960,very good,54.3,23.22
+ESCAPE Ipoh,adventure park,Malaysia,710,340,1360,16320,good,46.8,11.59
+A'Famosa Water Theme Park,water park,Malaysia,750,360,1440,17280,good,47.1,12.96
+Lost World Tambun Adventure Zone,adventure park,Malaysia,920,300,1200,14400,good,44.9,13.25
+Berjaya Hills Fantasy Park,theme park,Malaysia,2320,280,1120,13440,average,39.7,31.18
+Waterbom Bali Family Zone,water park,Indonesia,750,420,1680,20160,very good,53.4,15.12
+Trans Snow World Bekasi,indoor park,Indonesia,1410,380,1520,18240,good,47.6,25.72
+Jatim Park 1,theme park,Indonesia,920,420,1680,20160,good,45.9,18.55
+Jatim Park 2,eco park,Indonesia,450,400,1600,19200,average,41.8,8.64
+Jatim Park 3,theme park,Indonesia,1280,380,1520,18240,good,46.2,23.35
+SnowBay Waterpark Jakarta,water park,Indonesia,750,340,1360,16320,good,45.4,12.24
+Timezone Bali,indoor park,Indonesia,670,280,1120,13440,average,38.6,9.01
+Universal Studios Hollywood Super Nintendo World,theme park,United States,520,950,3800,45600,excellent,62.4,23.72
+Disney's Animal Kingdom Pandora,theme park,United States,1570,1050,4200,50400,excellent,63.1,79.13
+Six Flags Hurricane Harbor LA,water park,United States,700,480,1920,23040,good,49.9,16.13
+Busch Gardens Tampa Adventure Island,water park,United States,860,500,2000,24000,very good,52.8,20.64
+Legoland Florida Water Park,water park,United States,810,420,1680,20160,very good,51.6,16.33
+SeaWorld San Diego Aquatica,water park,United States,1580,460,1840,22080,very good,53.4,34.89
+Six Flags Hurricane Harbor Phoenix,water park,United States,1790,400,1600,19200,good,48.7,34.37
+Knott's Soak City,water park,United States,910,420,1680,20160,good,49.8,18.35
+Adventureland Iowa,amusement park,United States,2260,360,1440,17280,good,47.1,39.05
+Valleyfair,amusement park,United States,570,380,1520,18240,good,48.4,10.40
+Worlds of Fun,amusement park,United States,1600,360,1440,17280,good,47.8,27.65
+Six Flags Hurricane Harbor Chicago,water park,United States,690,420,1680,20160,good,49.9,13.91
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
